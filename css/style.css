@@ -49,7 +49,6 @@ body {
     text-align: center;
     text-decoration: none;
     font-family: 'grafitti';
-    src: url(../assets/Fonts/adrip1.ttf);
 }
 .viaje {
     display: flex;
