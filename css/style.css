@@ -6,7 +6,7 @@
 }
 @font-face {
     font-family: 'future';
-    src: url(../assets/Fonts/Future\ Shit.otf);
+    src: url(../assets/Fonts/Future/ Shit.otf);
 }
 @font-face {
     font-family: 'grafitti';
@@ -14,7 +14,7 @@
 }
 @font-face {
     font-family:'japan';
-    src: url(../assets/Fonts/Old\ Japanese.otf);
+    src: url(../assets/Fonts/Old/ Japanese.otf);
 }
 body {
     background-image: url(../assets/images/fondopag.jpg);
@@ -32,7 +32,7 @@ body {
     text-align: center;
     text-decoration: none;
     font-family: 'japan', sans-serif;
-    src: url(../assets/Fonts/Old\ Japanese.otf);
+    src: url(../assets/Fonts/Old/ Japanese.otf);
 }
 .titulo h1{
     color: rgb(218, 0, 247);
@@ -62,7 +62,7 @@ body {
     text-decoration: none;
     margin: 0rem 1.375rem;
     font-family: 'future';
-    src: url(../assets/Fonts/Future\ Shit.otf);
+    src: url(../assets/Fonts/Future/ Shit.otf);
 }
 .ourproduct {
     color: rgb(161, 0, 0);
@@ -112,7 +112,7 @@ body {
     text-align: center;
     text-decoration: none;
     font-family: 'future';
-    src: url(../assets/Fonts/Future\ Shit.otf);
+    src: url(../assets/Fonts/Future/ Shit.otf);
 }
 
 .twt {
