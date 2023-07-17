@@ -9,8 +9,8 @@
     src: url(../assets/Fonts/Future/ Shit.otf);
 }
 @font-face {
-    font-family: 'grafitti';
-    src: url(../assets/Fonts/adrip1.ttf);
+  font-family: 'grafitti';
+  src: url(../assets/Fonts/adrip1.ttf);
 }
 @font-face {
     font-family:'japan';
@@ -41,7 +41,6 @@ body {
     text-align: center;
     text-decoration: none;
     font-family: 'grafitti';
-    src: url(../assets/Fonts/adrip1.ttf);
 }
 .titulo h3 {
     color: rgb(200, 22, 185);
